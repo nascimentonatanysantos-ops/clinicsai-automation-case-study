@@ -90,7 +90,7 @@ Inbound jobs move through explicit states and use leases. Recoverable failures c
 
 ## My role and transparency
 
-I designed and iterated on the workflow logic through hands-on implementation with AI-assisted technical review. I can explain the end-to-end business flow and the main architecture decisions, and I am continuing to deepen my JavaScript, SQL, debugging and infrastructure skills.
+I designed and iterated on the workflow logic through hands-on implementation with AI-assisted technical review. I am continuing to deepen my JavaScript, SQL, debugging and infrastructure skills.
 
 This public repository is a documentation-focused case study. Operational workflow exports are being withheld until credential review and staging validation are complete.
 
